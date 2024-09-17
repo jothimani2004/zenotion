@@ -1,4 +1,9 @@
 #zenotion
+
+
+This website facilitates the sharing of educational resources between teachers and students. It includes personal spaces for students to store and manage their resources. Through this project, I gained valuable experience in both front-end and back-end development.
+
+
 ![Screenshot 2024-09-17 184046](https://github.com/user-attachments/assets/09f09c50-cb93-43fe-9cad-7469b2a66597)
 ![Screenshot 2024-09-17 183857](https://github.com/user-attachments/assets/81741b52-0b08-4b20-85c4-c31d11c60e5d)
 ![Screenshot 2024-09-17 183810](https://github.com/user-attachments/assets/4dd68378-0ec1-4fec-ace2-40d897a7c126)
